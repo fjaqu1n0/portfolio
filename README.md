@@ -1,2 +1,2 @@
 # portfolio
-Digital Portfolio
+Digital Portfolio simply written in HTML/CSS
